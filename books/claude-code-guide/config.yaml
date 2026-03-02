@@ -1,0 +1,15 @@
+title: "Claude Code 実践ガイド"
+summary: "AIペアプログラミングの新時代。Claude Code の基本から応用まで、実践的なテクニックを網羅した完全ガイド。"
+topics: ["claudecode", "ai", "programming", "cli"]
+published: true
+price: 200
+toc_depth: 2
+chapters:
+  - 1-introduction
+  - 2-setup
+  - 3-basic-usage
+  - 4-skills
+  - 5-team-development
+  - 6-advanced
+  - 7-tips
+  - 8-conclusion
